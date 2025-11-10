@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|solutionrelative:problemapractica\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\problemapractica\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|solutionrelative:problemapractica\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\problemapractica\\impresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|solutionrelative:problemapractica\\impresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\problemapractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|solutionrelative:problemapractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\problemapractica\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|solutionrelative:problemapractica\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\problemapractica\\concretestrategywhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\problemapractica\\gestornotificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|solutionrelative:problemapractica\\gestornotificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\problemapractica\\impresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|solutionrelative:problemapractica\\impresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1030745-894F-4826-BFAF-3F0413D6B409}|ProblemaPractica\\ProblemaPractica.csproj|C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\problemapractica\\trabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Notificacion.cs",
               "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\ProblemaPractica\\Notificacion.cs",
               "RelativeDocumentMoniker": "ProblemaPractica\\Notificacion.cs",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ConcreteStrategyWhatsApp.cs",
               "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\ProblemaPractica\\ConcreteStrategyWhatsApp.cs",
               "RelativeDocumentMoniker": "ProblemaPractica\\ConcreteStrategyWhatsApp.cs",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GestorNotificar.cs",
               "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\ProblemaPractica\\GestorNotificar.cs",
               "RelativeDocumentMoniker": "ProblemaPractica\\GestorNotificar.cs",
@@ -144,22 +144,23 @@
               "RelativeDocumentMoniker": "ProblemaPractica\\Usuario.cs",
               "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\ProblemaPractica\\Usuario.cs",
               "RelativeToolTip": "ProblemaPractica\\Usuario.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAFAAAACNAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T14:45:53.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Impresora.cs",
               "DocumentMoniker": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\ProblemaPractica\\Impresora.cs",
               "RelativeDocumentMoniker": "ProblemaPractica\\Impresora.cs",
               "ToolTip": "C:\\Aplicaciones\\Visual Studio 2022\\Trabajos en Visual Studio 2022\\repos\\PracticaParcialHilos\\ProblemaPractica\\Impresora.cs",
               "RelativeToolTip": "ProblemaPractica\\Impresora.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAlwFkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAlwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T14:45:44.977Z"
+              "WhenOpened": "2025-11-09T14:45:44.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -171,7 +172,8 @@
               "RelativeToolTip": "ProblemaPractica\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwA0AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T14:43:03.24Z"
+              "WhenOpened": "2025-11-09T14:43:03.24Z",
+              "EditorCaption": ""
             }
           ]
         }

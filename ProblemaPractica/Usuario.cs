@@ -23,9 +23,10 @@ namespace ProblemaPractica
 
         private static readonly Random random = new Random(Environment.TickCount);
 
+
         public void Producir()
         {
-            while (true)
+            for (int j = 1; j <= random.Next(2, 6); j++)
             {
                 Impresora.tamañoDoc = random.Next(1, 8);
 
