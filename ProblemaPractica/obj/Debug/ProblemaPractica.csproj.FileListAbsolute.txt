@@ -1,0 +1,8 @@
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PracticaParcialHilos\ProblemaPractica\bin\Debug\ProblemaPractica.exe.config
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PracticaParcialHilos\ProblemaPractica\bin\Debug\ProblemaPractica.exe
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PracticaParcialHilos\ProblemaPractica\bin\Debug\ProblemaPractica.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PracticaParcialHilos\ProblemaPractica\obj\Debug\ProblemaPractica.csproj.AssemblyReference.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PracticaParcialHilos\ProblemaPractica\obj\Debug\ProblemaPractica.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PracticaParcialHilos\ProblemaPractica\obj\Debug\ProblemaPractica.exe
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PracticaParcialHilos\ProblemaPractica\obj\Debug\ProblemaPractica.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PracticaParcialHilos\ProblemaPractica\obj\Debug\ProblemaPractica.exe.config
